@@ -29,25 +29,14 @@ body{
 }
 
 .heading{
+    text-align: left;
     position:absolute;
     bottom: 8px;
     left: 16px;
-    padding: 0px 0px  10px 20px  ;
+    padding: 0px 0px  10px 40px  ;
+    font-size: 10px;
 }
-/* .container{
-    position: relative;
-    text-align: left;
-    color: white;
-}
-.container img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 109%;
-    height: auto;
-    border-radius :100px;
-    margin: 30px 10px 30px 30px;
-} */
+
 .container{
     position: relative;
     text-align: left;
