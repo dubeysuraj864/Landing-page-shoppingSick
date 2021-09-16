@@ -5,14 +5,20 @@
 }
 body{
     margin: 0;
-}
-
-main{
     display: block;
     justify-content: center;
     align-items: center;
     align-self: center;
 }
+
+/* main{
+    margin: 0;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    
+} */
 
 .sick{
     display: inline;
@@ -48,14 +54,15 @@ main{
     color: white;
 }
 .container img{
-    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    width: 95%;
     border-radius: 40px ;
-    margin: 10px 10px 30px 30px;
+    margin: 10px auto 20px;
+    display: block
     
 }
+
 .container2{
     position: relative;
     text-align: left;
@@ -65,11 +72,13 @@ main{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 92%;
+    width: 90%;
     border-radius: 40px ;
-    margin: 10px 10px 30px 30px;
+    margin: 10px auto 20px;
+    display: block
     
 }
+
 .container3{
     position: relative;
     text-align: left;
@@ -79,9 +88,10 @@ main{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 92%;
-    border-radius: 40px ;
-    margin: 10px 10px 30px 30px;
+    width: 90%;
+    border-radius: 40px ;   
+    margin: 10px auto 20px;
+    display: block
     
 }
 
